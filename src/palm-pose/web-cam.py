@@ -2,7 +2,7 @@ import cv2
 from ultralytics import YOLO
 
 # 1. Load your trained model
-model = YOLO("best_hand.pt") 
+model = YOLO("best.pt")                 # Replace with your actual model path if different. 
 
 # 2. Open Webcam
 cap = cv2.VideoCapture(0)
