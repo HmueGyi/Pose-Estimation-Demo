@@ -1,0 +1,4 @@
+# GUI-enabled OpenCV is required because test_pose.py uses cv2.imshow().
+# Keep opencv-python-headless out of this environment.
+opencv-python>=4.10,<5
+ultralytics>=8.4,<9

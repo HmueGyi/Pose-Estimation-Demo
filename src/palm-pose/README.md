@@ -4,10 +4,7 @@
 
 ### Model Output
 
-<video width="320" height="240" controls autoplay loop>
-  <source src="assests/hand_result.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+- **Result video**: [assests/hand_result.mp4](assests/hand_result.mp4)
 
 - **Description**: This video shows the palm/hand pose estimation results with pose keypoints detected and drawn on each frame from the input video.
 
